@@ -1,4 +1,4 @@
-# Proyectos de Electrónica Analógica y Digital
+## Proyectos de Electrónica Analógica y Digital
 
 Bienvenido.  
 Este sitio reúne diagramas esquemáticos y proyectos desarrollados como
