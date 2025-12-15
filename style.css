@@ -74,5 +74,7 @@ footer {
 }
 
 .Logo img {
-  height: 10px;
+  height: 10px;     
+  width: auto;
 }
+
